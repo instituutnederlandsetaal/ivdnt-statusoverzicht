@@ -55,6 +55,8 @@ sites:
     url: https://hcd.ivdnt.org
   - name: jiddischwoordenboek.nl
     url: https://jiddischwoordenboek.nl
+  - name: jwsii.ivdnt.org
+    url: https://jwsii.ivdnt.org
   - name: kdutch.ivdnt.org
     url: https://kdutch.ivdnt.org
   - name: kennisbank-begrijpelijketaal.nl
