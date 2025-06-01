@@ -1,7 +1,7 @@
 url: https://schatkamer.ivdnt.org
-status: up
-code: 200
-responseTime: 987
-lastUpdated: 2025-05-31T23:05:05.309Z
+status: down
+code: 500
+responseTime: 5798
+lastUpdated: 2025-06-01T04:24:30.045Z
 startTime: 2024-11-11T11:13:11.323Z
 generator: Upptime <https://github.com/upptime/upptime>
