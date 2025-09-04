@@ -1,7 +1,7 @@
 url: https://jwsii.ivdnt.org
-status: up
-code: 200
-responseTime: 647
-lastUpdated: 2025-09-03T23:04:23.494Z
+status: down
+code: 502
+responseTime: 1178
+lastUpdated: 2025-09-04T04:23:31.592Z
 startTime: 2025-05-07T13:28:52.803Z
 generator: Upptime <https://github.com/upptime/upptime>
