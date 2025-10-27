@@ -85,6 +85,8 @@ sites:
     url: https://pinkhof.ivdnt.org
   - name: portal.clarin.ivdnt.org
     url: https://portal.clarin.ivdnt.org
+  - name: sabed.ivdnt.org
+    url: https://sabed.ivdnt.org
   - name: schatkamer.ivdnt.org
     url: https://schatkamer.ivdnt.org
   - name: scheikunde.ivdnt.org
