@@ -52,7 +52,7 @@ sites:
   - name: gtb.ivdnt.org
     url: https://gtb.ivdnt.org
   - name: hcd.ivdnt.org
-    url: https://hcd.ivdnt.org
+    url: https://hcd.ivdnt.org/blacklab-frontend/HCD/search
   - name: jiddischwoordenboek.nl
     url: https://jiddischwoordenboek.nl
   - name: jwsii.ivdnt.org
