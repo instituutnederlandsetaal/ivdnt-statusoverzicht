@@ -1,7 +1,7 @@
 url: https://neerlandistiek.nl
-status: up
-code: 200
-responseTime: 1035
-lastUpdated: 2025-10-28T23:05:01.891Z
+status: down
+code: 503
+responseTime: 479
+lastUpdated: 2025-10-29T05:53:20.527Z
 startTime: 2023-10-09T09:16:35.319Z
 generator: Upptime <https://github.com/upptime/upptime>
