@@ -1,7 +1,7 @@
 url: https://ciplnet.com
-status: up
-code: 200
-responseTime: 729
-lastUpdated: 2025-10-29T23:04:35.167Z
+status: down
+code: 503
+responseTime: 558
+lastUpdated: 2025-10-30T05:24:17.575Z
 startTime: 2023-10-09T09:32:54.911Z
 generator: Upptime <https://github.com/upptime/upptime>
