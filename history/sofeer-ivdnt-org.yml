@@ -1,7 +1,7 @@
 url: https://sofeer.ivdnt.org
-status: up
-code: 200
-responseTime: 642
-lastUpdated: 2025-12-23T23:05:59.101Z
+status: down
+code: 502
+responseTime: 470
+lastUpdated: 2025-12-24T05:24:43.784Z
 startTime: 2023-10-13T13:23:22.732Z
 generator: Upptime <https://github.com/upptime/upptime>
