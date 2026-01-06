@@ -27,8 +27,6 @@ sites:
     url: https://corpusoudnederlands.ivdnt.org
   - name: couranten.ivdnt.org
     url: https://couranten.ivdnt.org
-  - name: dative.ca
-    url: https://dative.ca
   - name: dagenta.ivdnt.org
     url: https://dagenta.ivdnt.org
   - name: diamant.ivdnt.org
