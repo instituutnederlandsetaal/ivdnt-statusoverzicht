@@ -1,7 +1,7 @@
 url: https://overtaal.be
-status: up
-code: 200
-responseTime: 853
-lastUpdated: 2026-01-31T23:06:43.537Z
+status: down
+code: 502
+responseTime: 2898
+lastUpdated: 2026-02-01T15:58:57.270Z
 startTime: 2023-10-16T08:39:50.744Z
 generator: Upptime <https://github.com/upptime/upptime>
