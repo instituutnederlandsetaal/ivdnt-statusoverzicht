@@ -1,7 +1,7 @@
 url: https://couranten.ivdnt.org
-status: up
-code: 200
-responseTime: 738
-lastUpdated: 2026-03-05T23:25:44.097Z
+status: down
+code: 502
+responseTime: 631
+lastUpdated: 2026-03-06T08:49:42.808Z
 startTime: 2022-05-25T10:59:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
