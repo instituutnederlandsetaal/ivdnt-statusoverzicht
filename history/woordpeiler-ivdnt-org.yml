@@ -1,7 +1,7 @@
 url: https://woordpeiler.ivdnt.org
-status: up
-code: 200
-responseTime: 622
-lastUpdated: 2026-03-21T23:07:41.936Z
+status: down
+code: 502
+responseTime: 4223
+lastUpdated: 2026-03-22T05:32:00.209Z
 startTime: 2025-02-07T09:03:54.450Z
 generator: Upptime <https://github.com/upptime/upptime>
