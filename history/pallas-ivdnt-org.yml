@@ -1,7 +1,7 @@
 url: https://pallas.ivdnt.org
-status: up
-code: 200
-responseTime: 1080
-lastUpdated: 2026-03-30T23:13:07.575Z
+status: down
+code: 503
+responseTime: 393
+lastUpdated: 2026-03-31T16:16:04.442Z
 startTime: 2024-11-11T11:13:07.185Z
 generator: Upptime <https://github.com/upptime/upptime>
