@@ -107,6 +107,8 @@ sites:
     url: https://woordenlijst.org    
   - name: woordpeiler.ivdnt.org
     url: https://woordpeiler.ivdnt.org
+  - name: wow.ivdnt.org
+    url: https://wow.ivdnt.org
 status-website:
   cname: status.ivdnt.org
   logoUrl: https://raw.githubusercontent.com/INL/ivdnt-statusoverzicht/master/assets/ivdNt-logo-w-2regels-cmyk.png
