@@ -63,6 +63,8 @@ sites:
     url: https://lexiconfrisicum.ivdnt.org
   - name: limburgsluisteren.ivdnt.org
     url: https://limburgsluisteren.ivdnt.org
+  - name: lol.ivdnt.org
+    url: https://lol.ivdnt.org
   - name: mateo.ivdnt.org
     url: https://mateo.ivdnt.org
   - name: neerlandistiek.nl
