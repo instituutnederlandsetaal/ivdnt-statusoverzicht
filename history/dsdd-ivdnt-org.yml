@@ -1,7 +1,7 @@
 url: https://dsdd.ivdnt.org/DSDD
-status: up
-code: 200
-responseTime: 1044
-lastUpdated: 2026-05-04T23:20:35.530Z
+status: down
+code: 503
+responseTime: 18850
+lastUpdated: 2026-05-05T20:46:37.135Z
 startTime: 2021-05-28T10:17:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
