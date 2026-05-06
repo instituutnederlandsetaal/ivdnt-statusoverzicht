@@ -1,7 +1,7 @@
 url: https://diamant.ivdnt.org
-status: up
-code: 200
-responseTime: 756
-lastUpdated: 2026-05-05T23:23:42.321Z
+status: down
+code: 503
+responseTime: 3556
+lastUpdated: 2026-05-06T05:45:54.581Z
 startTime: 2021-06-23T13:50:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
