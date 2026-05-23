@@ -55,8 +55,7 @@
       "2026-03-18": 25,
       "2026-01-31": 36,
       "2025-06-25": 30,
-      "2025-06-16": 37,
-      "2025-05-23": 20
+      "2025-06-16": 37
     }
   },
   {
@@ -118,8 +117,7 @@
       "2025-07-08": 399,
       "2025-07-07": 70,
       "2025-07-01": 16,
-      "2025-06-11": 15,
-      "2025-05-23": 19
+      "2025-06-11": 15
     }
   },
   {
@@ -147,8 +145,7 @@
       "2026-01-31": 34,
       "2025-10-15": 52,
       "2025-07-01": 16,
-      "2025-06-11": 15,
-      "2025-05-23": 18
+      "2025-06-11": 15
     }
   },
   {
@@ -982,11 +979,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lol.ivdnt.org.ico",
     "slug": "lol-ivdnt-org",
     "status": "up",
-    "uptime": "85.96%",
+    "uptime": "85.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.96%",
-    "uptimeYear": "85.96%",
+    "uptimeMonth": "85.98%",
+    "uptimeYear": "85.98%",
     "time": 158,
     "timeDay": 55,
     "timeWeek": 102,
@@ -1033,18 +1030,19 @@
     "url": "https://neerlandistiek.nl",
     "icon": "https://icons.duckduckgo.com/ip3/neerlandistiek.nl.ico",
     "slug": "neerlandistiek-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "51.48%",
-    "uptimeWeek": "62.37%",
-    "uptimeMonth": "77.79%",
-    "uptimeYear": "98.04%",
+    "uptimeDay": "53.55%",
+    "uptimeWeek": "62.51%",
+    "uptimeMonth": "77.78%",
+    "uptimeYear": "98.05%",
     "time": 1362,
-    "timeDay": 804,
-    "timeWeek": 1053,
+    "timeDay": 788,
+    "timeWeek": 1057,
     "timeMonth": 995,
     "timeYear": 1315,
     "dailyMinutesDown": {
+      "2026-05-23": 2,
       "2026-05-22": 685,
       "2026-05-21": 533,
       "2026-05-20": 389,
@@ -1069,8 +1067,7 @@
       "2026-02-17": 24,
       "2026-02-14": 293,
       "2026-02-12": 77,
-      "2026-02-10": 18,
-      "2026-02-09": 23
+      "2026-02-10": 18
     }
   },
   {
@@ -1149,7 +1146,7 @@
     "uptime": "98.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.27%",
+    "uptimeMonth": "45.20%",
     "uptimeYear": "95.38%",
     "time": 1543,
     "timeDay": 0,
@@ -1157,7 +1154,8 @@
     "timeMonth": 1640,
     "timeYear": 1574,
     "dailyMinutesDown": {
-      "2026-05-22": 1426,
+      "2026-05-23": 19,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -1191,18 +1189,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/overtaal.be.ico",
     "slug": "overtaal-be",
     "status": "down",
-    "uptime": "98.16%",
+    "uptime": "98.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.72%",
-    "uptimeYear": "95.24%",
+    "uptimeMonth": "43.64%",
+    "uptimeYear": "95.23%",
     "time": 1341,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1166,
     "timeYear": 1296,
     "dailyMinutesDown": {
-      "2026-05-22": 1426,
+      "2026-05-23": 19,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -1322,15 +1321,16 @@
     "uptime": "96.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.32%",
-    "uptimeYear": "95.43%",
+    "uptimeMonth": "45.25%",
+    "uptimeYear": "95.42%",
     "time": 584,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 611,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2026-05-22": 1427,
+      "2026-05-23": 19,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -1707,11 +1707,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wow.ivdnt.org.ico",
     "slug": "wow-ivdnt-org",
     "status": "up",
-    "uptime": "94.10%",
+    "uptime": "94.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.40%",
-    "uptimeYear": "94.10%",
+    "uptimeYear": "94.11%",
     "time": 526,
     "timeDay": 49,
     "timeWeek": 106,
