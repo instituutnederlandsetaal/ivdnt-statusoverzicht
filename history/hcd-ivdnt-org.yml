@@ -1,7 +1,7 @@
 url: https://hcd.ivdnt.org/blacklab-frontend/HCD/search
-status: up
-code: 200
-responseTime: 465
-lastUpdated: 2026-06-17T23:34:26.269Z
+status: down
+code: 403
+responseTime: 42
+lastUpdated: 2026-06-18T17:18:46.755Z
 startTime: 2025-04-07T09:31:53.820Z
 generator: Upptime <https://github.com/upptime/upptime>
