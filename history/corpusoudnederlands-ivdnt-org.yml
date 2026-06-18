@@ -1,7 +1,7 @@
 url: https://corpusoudnederlands.ivdnt.org
-status: up
-code: 200
-responseTime: 39331
-lastUpdated: 2026-06-18T16:11:47.132Z
+status: down
+code: 403
+responseTime: 51
+lastUpdated: 2026-06-18T17:16:13.256Z
 startTime: 2022-02-28T10:34:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
