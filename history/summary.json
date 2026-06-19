@@ -164,9 +164,9 @@
     "slug": "ciplnet-com",
     "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "94.63%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "94.41%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "98.00%",
     "time": 1157,
     "timeDay": 12060,
@@ -192,7 +192,7 @@
       "2026-05-05": 195,
       "2026-05-26": 64,
       "2026-06-18": 68,
-      "2026-06-19": 9
+      "2026-06-19": 12
     }
   },
   {
@@ -1242,7 +1242,7 @@
     "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.59%",
+    "uptimeMonth": "71.60%",
     "uptimeYear": "93.96%",
     "time": 1367,
     "timeDay": 1178,
@@ -1376,7 +1376,7 @@
     "uptime": "96.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.45%",
+    "uptimeMonth": "74.46%",
     "uptimeYear": "94.39%",
     "time": 587,
     "timeDay": 733,
