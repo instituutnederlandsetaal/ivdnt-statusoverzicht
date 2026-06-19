@@ -1,7 +1,7 @@
 url: https://corpusmiddelnederlands.ivdnt.org
-status: up
-code: 200
-responseTime: 456
-lastUpdated: 2026-06-19T09:18:39.055Z
+status: down
+code: 403
+responseTime: 61
+lastUpdated: 2026-06-19T13:36:51.839Z
 startTime: 2021-05-28T10:46:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
