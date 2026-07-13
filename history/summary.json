@@ -212,7 +212,7 @@
     "timeDay": 1021,
     "timeWeek": 1054,
     "timeMonth": 901,
-    "timeYear": 1554,
+    "timeYear": 1556,
     "dailyMinutesDown": {
       "2025-07-24": 18,
       "2025-08-19": 126,
@@ -446,7 +446,7 @@
     "timeDay": 1514,
     "timeWeek": 1510,
     "timeMonth": 1363,
-    "timeYear": 1857,
+    "timeYear": 1858,
     "dailyMinutesDown": {
       "2025-08-19": 126,
       "2025-09-10": 20,
@@ -481,7 +481,7 @@
     "timeDay": 701,
     "timeWeek": 805,
     "timeMonth": 4993,
-    "timeYear": 1743,
+    "timeYear": 1745,
     "dailyMinutesDown": {
       "2025-10-15": 43,
       "2026-01-02": 16,
@@ -515,7 +515,7 @@
     "timeDay": 1093,
     "timeWeek": 1200,
     "timeMonth": 6476,
-    "timeYear": 2129,
+    "timeYear": 2132,
     "dailyMinutesDown": {
       "2025-10-15": 43,
       "2026-01-02": 15,
@@ -543,7 +543,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "98.88%",
+    "uptimeYear": "98.89%",
     "time": 1158,
     "timeDay": 979,
     "timeWeek": 1109,
@@ -621,16 +621,16 @@
     "url": "https://ewnd.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/ewnd.ivdnt.org.ico",
     "slug": "ewnd-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "95.59%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "97.89%",
+    "uptimeDay": "94.80%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "97.88%",
     "time": 603,
-    "timeDay": 413,
-    "timeWeek": 408,
-    "timeMonth": 392,
+    "timeDay": 441,
+    "timeWeek": 412,
+    "timeMonth": 393,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2025-08-19": 126,
@@ -667,7 +667,7 @@
       "2026-07-02": 83,
       "2026-07-08": 59,
       "2026-07-12": 61,
-      "2026-07-13": 2
+      "2026-07-13": 75
     }
   },
   {
@@ -716,7 +716,7 @@
     "timeDay": 861,
     "timeWeek": 837,
     "timeMonth": 5148,
-    "timeYear": 1731,
+    "timeYear": 1732,
     "dailyMinutesDown": {
       "2025-10-15": 43,
       "2026-01-31": 27,
@@ -746,7 +746,7 @@
     "timeDay": 913,
     "timeWeek": 964,
     "timeMonth": 4502,
-    "timeYear": 1546,
+    "timeYear": 1547,
     "dailyMinutesDown": {
       "2025-07-24": 18,
       "2025-10-15": 43,
@@ -778,7 +778,7 @@
     "timeDay": 1153,
     "timeWeek": 925,
     "timeMonth": 2176,
-    "timeYear": 884,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2025-10-15": 43,
       "2026-01-31": 26,
@@ -807,7 +807,7 @@
     "timeDay": 586,
     "timeWeek": 604,
     "timeMonth": 3673,
-    "timeYear": 1256,
+    "timeYear": 1257,
     "dailyMinutesDown": {
       "2025-08-02": 18,
       "2025-10-15": 43,
@@ -872,7 +872,7 @@
     "timeDay": 430,
     "timeWeek": 470,
     "timeMonth": 1681,
-    "timeYear": 702,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2025-08-08": 19,
       "2025-10-15": 43,
@@ -960,16 +960,16 @@
     "url": "https://kennisbank-begrijpelijketaal.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kennisbank-begrijpelijketaal.nl.ico",
     "slug": "kennisbank-begrijpelijketaal-nl",
-    "status": "down",
-    "uptime": "97.57%",
-    "uptimeDay": "95.59%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "98.11%",
-    "uptimeYear": "96.54%",
+    "status": "up",
+    "uptime": "97.56%",
+    "uptimeDay": "94.81%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "96.52%",
     "time": 647,
-    "timeDay": 490,
-    "timeWeek": 527,
-    "timeMonth": 559,
+    "timeDay": 591,
+    "timeWeek": 541,
+    "timeMonth": 561,
     "timeYear": 636,
     "dailyMinutesDown": {
       "2025-08-19": 126,
@@ -1012,7 +1012,7 @@
       "2026-07-02": 83,
       "2026-07-08": 59,
       "2026-07-12": 61,
-      "2026-07-13": 2
+      "2026-07-13": 75
     }
   },
   {
@@ -1570,7 +1570,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sofeer.ivdnt.org.ico",
     "slug": "sofeer-ivdnt-org",
     "status": "up",
-    "uptime": "98.24%",
+    "uptime": "98.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
@@ -1690,16 +1690,16 @@
     "url": "https://uitleenwoordenbank.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/uitleenwoordenbank.ivdnt.org.ico",
     "slug": "uitleenwoordenbank-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "95.57%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "98.13%",
-    "uptimeYear": "97.90%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "97.97%",
+    "uptimeYear": "97.88%",
     "time": 599,
-    "timeDay": 370,
-    "timeWeek": 479,
-    "timeMonth": 494,
+    "timeDay": 581,
+    "timeWeek": 495,
+    "timeMonth": 497,
     "timeYear": 591,
     "dailyMinutesDown": {
       "2025-08-19": 126,
@@ -1737,7 +1737,7 @@
       "2026-07-02": 83,
       "2026-07-08": 59,
       "2026-07-12": 61,
-      "2026-07-13": 3
+      "2026-07-13": 74
     }
   },
   {
