@@ -67,6 +67,8 @@ sites:
     url: https://lol.ivdnt.org
   - name: mateo.ivdnt.org
     url: https://mateo.ivdnt.org
+  - name: meldpunttaal.ivdnt.org
+    url: https://meldpunttaal.ivdnt.org
   - name: neerlandistiek.nl
     url: https://neerlandistiek.nl
   - name: nederlandsedialecten.org
