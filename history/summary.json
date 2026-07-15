@@ -769,16 +769,16 @@
     "url": "https://gretel4.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/gretel4.ivdnt.org.ico",
     "slug": "gretel4-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.09%",
-    "time": 874,
-    "timeDay": 10189,
-    "timeWeek": 3074,
-    "timeMonth": 2595,
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.08%",
+    "time": 836,
+    "timeDay": 7056,
+    "timeWeek": 2845,
+    "timeMonth": 2552,
     "timeYear": 936,
     "dailyMinutesDown": {
       "2025-10-15": 43,
@@ -791,7 +791,7 @@
       "2026-06-18": 90,
       "2026-06-19": 76,
       "2026-06-21": 109,
-      "2026-07-15": 6
+      "2026-07-15": 32
     }
   },
   {
@@ -799,17 +799,17 @@
     "url": "https://gtb.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/gtb.ivdnt.org.ico",
     "slug": "gtb-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.26%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "99.19%",
     "time": 1199,
-    "timeDay": 1216,
-    "timeWeek": 744,
-    "timeMonth": 3556,
-    "timeYear": 1256,
+    "timeDay": 994,
+    "timeWeek": 725,
+    "timeMonth": 3481,
+    "timeYear": 1255,
     "dailyMinutesDown": {
       "2025-08-02": 18,
       "2025-10-15": 43,
@@ -823,7 +823,7 @@
       "2026-06-18": 157,
       "2026-06-19": 131,
       "2026-06-21": 29,
-      "2026-07-15": 6
+      "2026-07-15": 32
     }
   },
   {
@@ -865,17 +865,17 @@
     "url": "https://jiddischwoordenboek.nl",
     "icon": "https://icons.duckduckgo.com/ip3/jiddischwoordenboek.nl.ico",
     "slug": "jiddischwoordenboek-nl",
-    "status": "down",
+    "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "98.01%",
     "time": 638,
-    "timeDay": 1160,
-    "timeWeek": 614,
-    "timeMonth": 1568,
-    "timeYear": 705,
+    "timeDay": 905,
+    "timeWeek": 592,
+    "timeMonth": 1536,
+    "timeYear": 704,
     "dailyMinutesDown": {
       "2025-08-08": 19,
       "2025-10-15": 43,
@@ -892,7 +892,7 @@
       "2026-05-06": 1005,
       "2026-06-18": 58,
       "2026-06-19": 98,
-      "2026-07-15": 5
+      "2026-07-15": 31
     }
   },
   {
@@ -1025,17 +1025,17 @@
     "url": "https://lexiconfrisicum.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/lexiconfrisicum.ivdnt.org.ico",
     "slug": "lexiconfrisicum-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "98.23%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.33%",
     "time": 610,
-    "timeDay": 1171,
-    "timeWeek": 622,
-    "timeMonth": 1402,
-    "timeYear": 666,
+    "timeDay": 905,
+    "timeWeek": 597,
+    "timeMonth": 1377,
+    "timeYear": 665,
     "dailyMinutesDown": {
       "2025-10-15": 43,
       "2026-01-20": 15,
@@ -1047,7 +1047,7 @@
       "2026-06-19": 60,
       "2026-06-21": 95,
       "2026-06-22": 75,
-      "2026-07-15": 5
+      "2026-07-15": 31
     }
   },
   {
@@ -1089,17 +1089,17 @@
     "url": "https://lol.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/lol.ivdnt.org.ico",
     "slug": "lol-ivdnt-org",
-    "status": "down",
-    "uptime": "96.23%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "96.23%",
-    "time": 689,
-    "timeDay": 1215,
-    "timeWeek": 633,
-    "timeMonth": 968,
-    "timeYear": 689,
+    "status": "up",
+    "uptime": "96.20%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "96.20%",
+    "time": 686,
+    "timeDay": 947,
+    "timeWeek": 611,
+    "timeMonth": 954,
+    "timeYear": 686,
     "dailyMinutesDown": {
       "2026-05-08": 713,
       "2026-05-07": 1440,
@@ -1108,7 +1108,7 @@
       "2026-06-18": 86,
       "2026-06-19": 68,
       "2026-06-20": 11,
-      "2026-07-15": 5
+      "2026-07-15": 30
     }
   },
   {
@@ -1236,16 +1236,16 @@
     "url": "https://neologismen.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/neologismen.ivdnt.org.ico",
     "slug": "neologismen-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.28%",
     "time": 903,
-    "timeDay": 1460,
-    "timeWeek": 1118,
-    "timeMonth": 1381,
+    "timeDay": 1211,
+    "timeWeek": 1077,
+    "timeMonth": 1364,
     "timeYear": 929,
     "dailyMinutesDown": {
       "2025-10-15": 43,
@@ -1261,7 +1261,7 @@
       "2026-05-27": 35,
       "2026-06-18": 28,
       "2026-06-19": 82,
-      "2026-07-15": 5
+      "2026-07-15": 30
     }
   },
   {
