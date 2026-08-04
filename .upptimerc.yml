@@ -13,6 +13,8 @@ sites:
     url: https://ciplnet.com
   - name: clarin-be.ivdnt.org
     url: https://clarin-be.ivdnt.org
+  - name: ciplnet.com
+    url: https://ciplnet.com
   - name: corpusgysseling.ivdnt.org
     url: https://corpusgysseling.ivdnt.org
   - name: corpusjuridischnederlands.ivdnt.org
