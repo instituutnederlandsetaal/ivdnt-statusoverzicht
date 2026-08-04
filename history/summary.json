@@ -142,9 +142,9 @@
     "slug": "chn-ivdnt-org",
     "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.14%",
     "time": 1040,
     "timeDay": 357,
@@ -161,7 +161,7 @@
       "2026-05-06": 933,
       "2026-05-28": 847,
       "2026-05-27": 449,
-      "2026-08-04": 1
+      "2026-08-04": 4
     }
   },
   {
