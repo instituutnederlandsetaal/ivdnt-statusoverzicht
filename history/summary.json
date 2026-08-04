@@ -142,9 +142,9 @@
     "slug": "chn-ivdnt-org",
     "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "90.15%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "89.97%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.12%",
     "time": 1039,
     "timeDay": 243,
@@ -161,7 +161,7 @@
       "2026-05-06": 933,
       "2026-05-28": 847,
       "2026-05-27": 449,
-      "2026-08-04": 142
+      "2026-08-04": 144
     }
   },
   {
@@ -207,9 +207,9 @@
     "slug": "ciplnet-com",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "15.40%",
-    "uptimeWeek": "15.40%",
-    "uptimeMonth": "15.40%",
+    "uptimeDay": "4.71%",
+    "uptimeWeek": "4.71%",
+    "uptimeMonth": "4.71%",
     "uptimeYear": "0.00%",
     "time": 1075,
     "timeDay": 22,
@@ -235,7 +235,7 @@
       "2026-05-26": 64,
       "2026-06-18": 68,
       "2026-06-19": 239,
-      "2026-08-04": 1
+      "2026-08-04": 4
     }
   },
   {
