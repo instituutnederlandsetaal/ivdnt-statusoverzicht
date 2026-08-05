@@ -10,11 +10,9 @@ sites:
   - name: brievenalsbuit2.ivdnt.org
     url: https://brievenalsbuit2.ivdnt.org
   - name: chn.ivdnt.org
-    url: https://ciplnet.com
+    url: chn.ivdnt.org
   - name: clarin-be.ivdnt.org
     url: https://clarin-be.ivdnt.org
-  - name: ciplnet.com
-    url: https://ciplnet.com
   - name: corpusgysseling.ivdnt.org
     url: https://corpusgysseling.ivdnt.org
   - name: corpusjuridischnederlands.ivdnt.org
