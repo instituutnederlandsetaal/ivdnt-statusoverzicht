@@ -170,17 +170,17 @@
     "url": "https://clarin-be.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/clarin-be.ivdnt.org.ico",
     "slug": "clarin-be-ivdnt-org",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.16%",
-    "time": 1490,
-    "timeDay": 532,
-    "timeWeek": 912,
-    "timeMonth": 1063,
-    "timeYear": 1526,
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.15%",
+    "time": 1489,
+    "timeDay": 741,
+    "timeWeek": 939,
+    "timeMonth": 1066,
+    "timeYear": 1525,
     "dailyMinutesDown": {
       "2025-08-19": 126,
       "2025-09-10": 20,
@@ -199,7 +199,7 @@
       "2026-06-18": 33,
       "2026-06-19": 57,
       "2026-07-28": 90,
-      "2026-08-13": 3
+      "2026-08-13": 40
     }
   },
   {
@@ -374,16 +374,16 @@
     "url": "https://couranten.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/couranten.ivdnt.org.ico",
     "slug": "couranten-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.21%",
-    "time": 1063,
-    "timeDay": 410,
-    "timeWeek": 784,
-    "timeMonth": 893,
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.20%",
+    "time": 1064,
+    "timeDay": 638,
+    "timeWeek": 819,
+    "timeMonth": 898,
     "timeYear": 977,
     "dailyMinutesDown": {
       "2025-10-13": 17,
@@ -398,7 +398,7 @@
       "2026-05-05": 194,
       "2026-06-18": 32,
       "2026-06-19": 58,
-      "2026-08-13": 3
+      "2026-08-13": 40
     }
   },
   {
@@ -406,16 +406,16 @@
     "url": "https://dagenta.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/dagenta.ivdnt.org.ico",
     "slug": "dagenta-ivdnt-org",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "98.92%",
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "98.91%",
     "time": 1887,
-    "timeDay": 661,
-    "timeWeek": 1411,
-    "timeMonth": 1521,
+    "timeDay": 1068,
+    "timeWeek": 1464,
+    "timeMonth": 1530,
     "timeYear": 1825,
     "dailyMinutesDown": {
       "2025-08-19": 126,
@@ -435,7 +435,7 @@
       "2026-06-18": 32,
       "2026-06-19": 58,
       "2026-07-28": 81,
-      "2026-08-13": 3
+      "2026-08-13": 40
     }
   },
   {
@@ -593,17 +593,17 @@
     "url": "https://ewnd.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/ewnd.ivdnt.org.ico",
     "slug": "ewnd-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "97.23%",
-    "uptimeYear": "97.66%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "97.24%",
+    "uptimeYear": "97.65%",
     "time": 572,
-    "timeDay": 382,
-    "timeWeek": 387,
-    "timeMonth": 393,
-    "timeYear": 556,
+    "timeDay": 396,
+    "timeWeek": 390,
+    "timeMonth": 394,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2025-08-19": 126,
       "2025-09-10": 20,
@@ -661,7 +661,7 @@
       "2026-08-10": 36,
       "2026-08-11": 28,
       "2026-08-12": 35,
-      "2026-08-13": 3
+      "2026-08-13": 39
     }
   },
   {
@@ -955,16 +955,16 @@
     "url": "https://kennisbank-begrijpelijketaal.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kennisbank-begrijpelijketaal.nl.ico",
     "slug": "kennisbank-begrijpelijketaal-nl",
-    "status": "down",
-    "uptime": "97.56%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "97.24%",
-    "uptimeYear": "96.31%",
+    "status": "up",
+    "uptime": "97.55%",
+    "uptimeDay": "96.22%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "96.30%",
     "time": 631,
-    "timeDay": 481,
-    "timeWeek": 574,
-    "timeMonth": 558,
+    "timeDay": 597,
+    "timeWeek": 583,
+    "timeMonth": 561,
     "timeYear": 620,
     "dailyMinutesDown": {
       "2025-08-19": 126,
@@ -1029,7 +1029,7 @@
       "2026-08-10": 36,
       "2026-08-11": 28,
       "2026-08-12": 35,
-      "2026-08-13": 3
+      "2026-08-13": 39
     }
   },
   {
@@ -1129,16 +1129,16 @@
     "url": "https://mateo.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/mateo.ivdnt.org.ico",
     "slug": "mateo-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "97.38%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.24%",
     "time": 581,
-    "timeDay": 376,
-    "timeWeek": 453,
-    "timeMonth": 441,
+    "timeDay": 436,
+    "timeWeek": 465,
+    "timeMonth": 444,
     "timeYear": 552,
     "dailyMinutesDown": {
       "2025-10-07": 46,
@@ -1152,7 +1152,7 @@
       "2026-05-05": 134,
       "2026-06-18": 28,
       "2026-06-19": 59,
-      "2026-08-13": 3
+      "2026-08-13": 39
     }
   },
   {
@@ -1737,16 +1737,16 @@
     "url": "https://uitleenwoordenbank.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/uitleenwoordenbank.ivdnt.org.ico",
     "slug": "uitleenwoordenbank-ivdnt-org",
-    "status": "down",
-    "uptime": "98.51%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "97.40%",
-    "uptimeYear": "97.68%",
+    "status": "up",
+    "uptime": "98.50%",
+    "uptimeDay": "96.31%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "97.41%",
+    "uptimeYear": "97.67%",
     "time": 583,
-    "timeDay": 437,
-    "timeWeek": 487,
-    "timeMonth": 516,
+    "timeDay": 541,
+    "timeWeek": 499,
+    "timeMonth": 519,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2025-08-19": 126,
@@ -1805,7 +1805,7 @@
       "2026-08-10": 36,
       "2026-08-11": 28,
       "2026-08-12": 35,
-      "2026-08-13": 3
+      "2026-08-13": 39
     }
   },
   {
