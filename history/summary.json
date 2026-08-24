@@ -594,7 +594,7 @@
     "uptime": "99.17%",
     "uptimeDay": "97.91%",
     "uptimeWeek": "98.29%",
-    "uptimeMonth": "97.82%",
+    "uptimeMonth": "97.78%",
     "uptimeYear": "97.63%",
     "time": 562,
     "timeDay": 355,
@@ -666,7 +666,7 @@
       "2026-08-20": 31,
       "2026-08-21": 31,
       "2026-08-23": 28,
-      "2026-08-24": 2
+      "2026-08-24": 22
     }
   },
   {
@@ -960,8 +960,8 @@
     "uptime": "97.57%",
     "uptimeDay": "97.93%",
     "uptimeWeek": "98.30%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "96.28%",
+    "uptimeMonth": "97.80%",
+    "uptimeYear": "96.27%",
     "time": 623,
     "timeDay": 435,
     "timeWeek": 485,
@@ -1038,7 +1038,7 @@
       "2026-08-20": 30,
       "2026-08-21": 31,
       "2026-08-23": 28,
-      "2026-08-24": 2
+      "2026-08-24": 22
     }
   },
   {
@@ -1527,11 +1527,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sabed.ivdnt.org.ico",
     "slug": "sabed-ivdnt-org",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.04%",
+    "uptimeYear": "99.05%",
     "time": 821,
     "timeDay": 1071,
     "timeWeek": 909,
@@ -1740,17 +1740,17 @@
     "url": "https://uitleenwoordenbank.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/uitleenwoordenbank.ivdnt.org.ico",
     "slug": "uitleenwoordenbank-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "98.50%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "97.99%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "97.96%",
     "uptimeYear": "97.65%",
     "time": 583,
-    "timeDay": 442,
-    "timeWeek": 650,
-    "timeMonth": 548,
-    "timeYear": 576,
+    "timeDay": 534,
+    "timeWeek": 658,
+    "timeMonth": 556,
+    "timeYear": 577,
     "dailyMinutesDown": {
       "2025-11-12": 15,
       "2026-01-12": 16,
@@ -1816,7 +1816,7 @@
       "2026-08-20": 30,
       "2026-08-21": 31,
       "2026-08-23": 28,
-      "2026-08-24": 3
+      "2026-08-24": 20
     }
   },
   {
