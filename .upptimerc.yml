@@ -49,7 +49,6 @@ sites:
     url: https://gtb.ivdnt.org
   - name: hcd.ivdnt.org
     url: https://hcd.ivdnt.org/blacklab-frontend/HCD/search
-     icl2028leiden
   - name: icl2028leiden.nl
     url: https://icl2028leiden.nl   
   - name: jiddischwoordenboek.nl
