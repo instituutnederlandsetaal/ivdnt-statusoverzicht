@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 1319,
-    "timeDay": 877,
-    "timeWeek": 1152,
-    "timeMonth": 1094,
-    "timeYear": 1321,
+    "timeDay": 1089,
+    "timeWeek": 1171,
+    "timeMonth": 1100,
+    "timeYear": 1322,
     "dailyMinutesDown": {
       "2025-11-06": 120,
       "2025-12-14": 268,
@@ -837,9 +837,9 @@
     "slug": "hcd-ivdnt-org",
     "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.20%",
     "time": 748,
     "timeDay": 524,
@@ -860,7 +860,7 @@
       "2026-05-05": 191,
       "2026-06-18": 30,
       "2026-06-19": 60,
-      "2026-09-03": 2
+      "2026-09-03": 5
     }
   },
   {
@@ -1204,19 +1204,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/meldpunttaal.ivdnt.org.ico",
     "slug": "meldpunttaal-ivdnt-org",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.93%",
     "time": 460,
     "timeDay": 425,
     "timeWeek": 478,
     "timeMonth": 452,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2026-07-28": 53,
-      "2026-09-03": 14
+      "2026-07-28": 53
     }
   },
   {
