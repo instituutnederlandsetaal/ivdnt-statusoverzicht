@@ -592,9 +592,9 @@
     "slug": "ewnd-ivdnt-org",
     "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "99.85%",
+    "uptimeDay": "97.86%",
     "uptimeWeek": "97.61%",
-    "uptimeMonth": "97.81%",
+    "uptimeMonth": "97.74%",
     "uptimeYear": "97.53%",
     "time": 558,
     "timeDay": 300,
@@ -676,7 +676,7 @@
       "2026-09-02": 45,
       "2026-09-03": 40,
       "2026-09-04": 39,
-      "2026-09-06": 2
+      "2026-09-06": 31
     }
   },
   {
@@ -985,17 +985,17 @@
     "url": "https://kennisbank-begrijpelijketaal.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kennisbank-begrijpelijketaal.nl.ico",
     "slug": "kennisbank-begrijpelijketaal-nl",
-    "status": "down",
-    "uptime": "97.57%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "97.85%",
-    "uptimeMonth": "97.87%",
-    "uptimeYear": "96.19%",
+    "status": "up",
+    "uptime": "97.56%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "96.18%",
     "time": 625,
-    "timeDay": 279,
-    "timeWeek": 510,
-    "timeMonth": 546,
-    "timeYear": 606,
+    "timeDay": 458,
+    "timeWeek": 524,
+    "timeMonth": 549,
+    "timeYear": 607,
     "dailyMinutesDown": {
       "2025-09-10": 20,
       "2025-11-12": 15,
@@ -1077,7 +1077,7 @@
       "2026-09-02": 23,
       "2026-09-03": 40,
       "2026-09-04": 39,
-      "2026-09-06": 2
+      "2026-09-06": 29
     }
   },
   {
@@ -1780,16 +1780,16 @@
     "url": "https://uitleenwoordenbank.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/uitleenwoordenbank.ivdnt.org.ico",
     "slug": "uitleenwoordenbank-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "97.93%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "97.87%",
     "uptimeYear": "97.56%",
     "time": 586,
-    "timeDay": 398,
-    "timeWeek": 453,
-    "timeMonth": 533,
+    "timeDay": 528,
+    "timeWeek": 468,
+    "timeMonth": 536,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2025-11-12": 15,
@@ -1866,7 +1866,7 @@
       "2026-09-02": 23,
       "2026-09-03": 39,
       "2026-09-04": 39,
-      "2026-09-06": 3
+      "2026-09-06": 29
     }
   },
   {
