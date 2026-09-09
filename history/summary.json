@@ -751,17 +751,17 @@
     "url": "https://glad.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/glad.ivdnt.org.ico",
     "slug": "glad-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.13%",
     "time": 1372,
-    "timeDay": 1557,
-    "timeWeek": 1019,
-    "timeMonth": 1027,
-    "timeYear": 1546,
+    "timeDay": 1280,
+    "timeWeek": 992,
+    "timeMonth": 1019,
+    "timeYear": 1544,
     "dailyMinutesDown": {
       "2025-10-15": 43,
       "2025-10-17": 121,
@@ -775,7 +775,7 @@
       "2026-06-20": 182,
       "2026-06-21": 109,
       "2026-06-22": 75,
-      "2026-09-09": 2
+      "2026-09-09": 6
     }
   },
   {
@@ -1225,11 +1225,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/meldpunttaal.ivdnt.org.ico",
     "slug": "meldpunttaal-ivdnt-org",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.92%",
     "time": 452,
     "timeDay": 363,
     "timeWeek": 413,
@@ -1237,8 +1237,7 @@
     "timeYear": 452,
     "dailyMinutesDown": {
       "2026-07-28": 53,
-      "2026-09-03": 16,
-      "2026-09-09": 15
+      "2026-09-03": 16
     }
   },
   {
@@ -1281,9 +1280,9 @@
     "slug": "nederlandsedialecten-org",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.78%",
     "time": 1507,
     "timeDay": 917,
@@ -1310,8 +1309,7 @@
       "2026-05-05": 188,
       "2026-05-26": 458,
       "2026-05-27": 125,
-      "2026-07-28": 43,
-      "2026-09-09": 15
+      "2026-07-28": 43
     }
   },
   {
@@ -1404,10 +1402,10 @@
     "slug": "overtaal-be",
     "status": "up",
     "uptime": "97.90%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "93.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "93.98%",
     "time": 1270,
     "timeDay": 1466,
     "timeWeek": 1255,
@@ -1446,8 +1444,7 @@
       "2026-05-06": 1440,
       "2026-05-05": 187,
       "2026-06-01": 111,
-      "2026-07-28": 34,
-      "2026-09-09": 14
+      "2026-07-28": 34
     }
   },
   {
@@ -1588,9 +1585,9 @@
     "slug": "sabed-ivdnt-org",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.09%",
     "time": 824,
     "timeDay": 641,
@@ -1609,8 +1606,7 @@
       "2026-05-06": 1440,
       "2026-05-05": 186,
       "2026-06-18": 27,
-      "2026-06-19": 59,
-      "2026-09-09": 14
+      "2026-06-19": 59
     }
   },
   {
@@ -1619,10 +1615,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/schatkamer.ivdnt.org.ico",
     "slug": "schatkamer-ivdnt-org",
     "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
     "time": 1078,
     "timeDay": 571,
@@ -1643,8 +1639,7 @@
       "2026-05-27": 77,
       "2026-06-18": 27,
       "2026-06-19": 59,
-      "2026-07-28": 15,
-      "2026-09-09": 14
+      "2026-07-28": 15
     }
   },
   {
@@ -1654,9 +1649,9 @@
     "slug": "scheikunde-ivdnt-org",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
     "time": 669,
     "timeDay": 285,
@@ -1674,8 +1669,7 @@
       "2026-05-06": 1440,
       "2026-05-05": 185,
       "2026-06-18": 27,
-      "2026-06-19": 59,
-      "2026-09-09": 14
+      "2026-06-19": 59
     }
   },
   {
@@ -1685,9 +1679,9 @@
     "slug": "sofeer-ivdnt-org",
     "status": "up",
     "uptime": "98.34%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
     "time": 829,
     "timeDay": 463,
@@ -1707,8 +1701,7 @@
       "2026-05-05": 184,
       "2026-05-27": 77,
       "2026-06-18": 26,
-      "2026-06-19": 59,
-      "2026-09-09": 14
+      "2026-06-19": 59
     }
   },
   {
@@ -1772,10 +1765,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/transcriptor.nl.ico",
     "slug": "transcriptor-nl",
     "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.91%",
     "time": 560,
     "timeDay": 383,
@@ -1796,8 +1789,7 @@
       "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
-      "2026-05-05": 183,
-      "2026-09-09": 13
+      "2026-05-05": 183
     }
   },
   {
@@ -1806,10 +1798,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/uitleenwoordenbank.ivdnt.org.ico",
     "slug": "uitleenwoordenbank-ivdnt-org",
     "status": "up",
-    "uptime": "98.56%",
-    "uptimeDay": "96.18%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "97.71%",
+    "uptime": "98.52%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "97.74%",
     "uptimeYear": "97.53%",
     "time": 584,
     "timeDay": 434,
@@ -1894,7 +1886,7 @@
       "2026-09-06": 29,
       "2026-09-07": 40,
       "2026-09-08": 36,
-      "2026-09-09": 55
+      "2026-09-09": 42
     }
   },
   {
@@ -1982,10 +1974,10 @@
     "slug": "woordpeiler-ivdnt-org",
     "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "98.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.42%",
     "time": 697,
     "timeDay": 325,
     "timeWeek": 379,
@@ -2007,8 +1999,7 @@
       "2026-05-28": 1440,
       "2026-05-27": 447,
       "2026-06-18": 25,
-      "2026-06-19": 58,
-      "2026-09-09": 13
+      "2026-06-19": 58
     }
   },
   {
@@ -2018,9 +2009,9 @@
     "slug": "wow-ivdnt-org",
     "status": "up",
     "uptime": "98.26%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.26%",
     "time": 745,
     "timeDay": 571,
@@ -2033,8 +2024,7 @@
       "2026-05-06": 1440,
       "2026-05-05": 181,
       "2026-06-18": 25,
-      "2026-06-19": 58,
-      "2026-09-09": 13
+      "2026-06-19": 58
     }
   }
 ]
