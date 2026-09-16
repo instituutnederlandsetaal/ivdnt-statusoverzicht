@@ -2013,16 +2013,16 @@
     "url": "https://wow.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/wow.ivdnt.org.ico",
     "slug": "wow-ivdnt-org",
-    "status": "down",
-    "uptime": "98.34%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.34%",
+    "status": "up",
+    "uptime": "98.33%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "98.33%",
     "time": 748,
-    "timeDay": 561,
-    "timeWeek": 758,
-    "timeMonth": 814,
+    "timeDay": 587,
+    "timeWeek": 747,
+    "timeMonth": 809,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2026-05-08": 705,
@@ -2031,7 +2031,7 @@
       "2026-05-05": 181,
       "2026-06-18": 25,
       "2026-06-19": 58,
-      "2026-09-16": 3
+      "2026-09-16": 9
     }
   }
 ]
