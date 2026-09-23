@@ -1,7 +1,7 @@
 url: https://kennisbank-begrijpelijketaal.nl
-status: up
-code: 200
-responseTime: 569
-lastUpdated: 2026-09-22T23:09:48.173Z
+status: down
+code: 502
+responseTime: 216
+lastUpdated: 2026-09-23T03:35:24.531Z
 startTime: 2025-02-07T10:58:59.501Z
 generator: Upptime <https://github.com/upptime/upptime>
