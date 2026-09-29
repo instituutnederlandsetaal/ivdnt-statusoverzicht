@@ -590,16 +590,16 @@
     "url": "https://ewnd.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/ewnd.ivdnt.org.ico",
     "slug": "ewnd-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "97.36%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "97.38%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "97.42%",
+    "uptimeYear": "97.37%",
     "time": 537,
-    "timeDay": 378,
-    "timeWeek": 415,
-    "timeMonth": 395,
+    "timeDay": 381,
+    "timeWeek": 420,
+    "timeMonth": 396,
     "timeYear": 508,
     "dailyMinutesDown": {
       "2025-11-12": 15,
@@ -695,7 +695,7 @@
       "2026-09-25": 26,
       "2026-09-27": 54,
       "2026-09-28": 35,
-      "2026-09-29": 3
+      "2026-09-29": 34
     }
   },
   {
@@ -1006,16 +1006,16 @@
     "url": "https://kennisbank-begrijpelijketaal.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kennisbank-begrijpelijketaal.nl.ico",
     "slug": "kennisbank-begrijpelijketaal-nl",
-    "status": "down",
-    "uptime": "97.57%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "97.65%",
-    "uptimeYear": "96.04%",
+    "status": "up",
+    "uptime": "97.56%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "97.58%",
+    "uptimeYear": "96.03%",
     "time": 613,
-    "timeDay": 489,
-    "timeWeek": 515,
-    "timeMonth": 539,
+    "timeDay": 541,
+    "timeWeek": 512,
+    "timeMonth": 541,
     "timeYear": 593,
     "dailyMinutesDown": {
       "2025-11-12": 15,
@@ -1117,7 +1117,7 @@
       "2026-09-25": 26,
       "2026-09-27": 54,
       "2026-09-28": 35,
-      "2026-09-29": 3
+      "2026-09-29": 34
     }
   },
   {
@@ -1819,16 +1819,16 @@
     "url": "https://uitleenwoordenbank.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/uitleenwoordenbank.ivdnt.org.ico",
     "slug": "uitleenwoordenbank-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "97.34%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "97.75%",
-    "uptimeYear": "97.42%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "97.41%",
     "time": 572,
-    "timeDay": 511,
-    "timeWeek": 502,
-    "timeMonth": 503,
+    "timeDay": 584,
+    "timeWeek": 522,
+    "timeMonth": 506,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2025-11-12": 15,
@@ -1925,7 +1925,7 @@
       "2026-09-25": 26,
       "2026-09-27": 54,
       "2026-09-28": 35,
-      "2026-09-29": 4
+      "2026-09-29": 33
     }
   },
   {
