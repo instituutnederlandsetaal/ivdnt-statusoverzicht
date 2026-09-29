@@ -1189,16 +1189,16 @@
     "url": "https://lol.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/lol.ivdnt.org.ico",
     "slug": "lol-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "98.15%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "98.15%",
     "time": 592,
-    "timeDay": 350,
-    "timeWeek": 479,
-    "timeMonth": 502,
+    "timeDay": 503,
+    "timeWeek": 501,
+    "timeMonth": 506,
     "timeYear": 592,
     "dailyMinutesDown": {
       "2026-05-08": 713,
@@ -1209,7 +1209,7 @@
       "2026-06-19": 68,
       "2026-06-20": 11,
       "2026-07-15": 30,
-      "2026-09-29": 3
+      "2026-09-29": 12
     }
   },
   {
