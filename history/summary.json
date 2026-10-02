@@ -590,17 +590,17 @@
     "url": "https://ewnd.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/ewnd.ivdnt.org.ico",
     "slug": "ewnd-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "97.69%",
-    "uptimeMonth": "97.45%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "97.39%",
     "uptimeYear": "97.35%",
     "time": 535,
-    "timeDay": 414,
-    "timeWeek": 406,
-    "timeMonth": 400,
-    "timeYear": 497,
+    "timeDay": 561,
+    "timeWeek": 430,
+    "timeMonth": 405,
+    "timeYear": 498,
     "dailyMinutesDown": {
       "2025-11-12": 15,
       "2026-01-31": 28,
@@ -698,7 +698,7 @@
       "2026-09-29": 34,
       "2026-09-30": 44,
       "2026-10-01": 30,
-      "2026-10-02": 36
+      "2026-10-02": 59
     }
   },
   {
