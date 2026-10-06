@@ -596,13 +596,13 @@
     "slug": "ewnd-ivdnt-org",
     "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "96.33%",
+    "uptimeDay": "96.08%",
     "uptimeWeek": "96.87%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "97.32%",
+    "uptimeMonth": "97.26%",
+    "uptimeYear": "97.31%",
     "time": 532,
-    "timeDay": 371,
-    "timeWeek": 433,
+    "timeDay": 346,
+    "timeWeek": 432,
     "timeMonth": 414,
     "timeYear": 495,
     "dailyMinutesDown": {
@@ -705,7 +705,7 @@
       "2026-10-02": 59,
       "2026-10-04": 97,
       "2026-10-05": 51,
-      "2026-10-06": 2
+      "2026-10-06": 35
     }
   },
   {
@@ -1022,13 +1022,13 @@
     "slug": "kennisbank-begrijpelijketaal-nl",
     "status": "down",
     "uptime": "97.56%",
-    "uptimeDay": "96.33%",
-    "uptimeWeek": "97.14%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "95.98%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "97.13%",
+    "uptimeMonth": "97.43%",
+    "uptimeYear": "95.97%",
     "time": 611,
-    "timeDay": 785,
-    "timeWeek": 590,
+    "timeDay": 870,
+    "timeWeek": 582,
     "timeMonth": 551,
     "timeYear": 591,
     "dailyMinutesDown": {
@@ -1137,7 +1137,7 @@
       "2026-10-02": 34,
       "2026-10-04": 97,
       "2026-10-05": 50,
-      "2026-10-06": 3
+      "2026-10-06": 35
     }
   },
   {
@@ -1855,16 +1855,16 @@
     "url": "https://uitleenwoordenbank.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/uitleenwoordenbank.ivdnt.org.ico",
     "slug": "uitleenwoordenbank-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "96.31%",
-    "uptimeWeek": "97.15%",
-    "uptimeMonth": "97.60%",
+    "uptimeDay": "96.33%",
+    "uptimeWeek": "97.16%",
+    "uptimeMonth": "97.53%",
     "uptimeYear": "97.36%",
     "time": 576,
-    "timeDay": 1308,
-    "timeWeek": 743,
-    "timeMonth": 562,
+    "timeDay": 1356,
+    "timeWeek": 739,
+    "timeMonth": 564,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2025-11-12": 15,
@@ -1967,7 +1967,7 @@
       "2026-10-02": 34,
       "2026-10-04": 97,
       "2026-10-05": 50,
-      "2026-10-06": 3
+      "2026-10-06": 32
     }
   },
   {
