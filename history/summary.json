@@ -1290,17 +1290,17 @@
     "url": "https://neerlandistiek.nl",
     "icon": "https://icons.duckduckgo.com/ip3/neerlandistiek.nl.ico",
     "slug": "neerlandistiek-nl",
-    "status": "down",
+    "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "98.80%",
     "time": 1366,
-    "timeDay": 23229,
-    "timeWeek": 6436,
-    "timeMonth": 2555,
-    "timeYear": 1366,
+    "timeDay": 15888,
+    "timeWeek": 5913,
+    "timeMonth": 2517,
+    "timeYear": 1365,
     "dailyMinutesDown": {
       "2026-05-15": 348,
       "2026-05-16": 371,
@@ -1317,7 +1317,7 @@
       "2026-07-02": 73,
       "2026-08-22": 20,
       "2026-10-04": 107,
-      "2026-10-06": 5
+      "2026-10-06": 18
     }
   },
   {
