@@ -1401,17 +1401,17 @@
     "url": "https://portal.clarin.inl.nl/opensonar_frontend/opensonar",
     "icon": "https://icons.duckduckgo.com/ip3/portal.clarin.inl.nl.ico",
     "slug": "opensonar-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "94.32%",
-    "time": 1732,
-    "timeDay": 1875,
-    "timeWeek": 2707,
-    "timeMonth": 2294,
-    "timeYear": 1863,
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "94.31%",
+    "time": 1733,
+    "timeDay": 1763,
+    "timeWeek": 2589,
+    "timeMonth": 2274,
+    "timeYear": 1862,
     "dailyMinutesDown": {
       "2025-10-15": 43,
       "2026-01-28": 19,
@@ -1445,7 +1445,7 @@
       "2026-06-18": 71,
       "2026-07-27": 57,
       "2026-10-05": 28,
-      "2026-10-07": 3
+      "2026-10-07": 12
     }
   },
   {
