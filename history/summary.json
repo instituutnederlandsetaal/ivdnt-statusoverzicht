@@ -1403,10 +1403,10 @@
     "slug": "opensonar-ivdnt-org",
     "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "94.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "94.32%",
     "time": 1733,
     "timeDay": 1763,
     "timeWeek": 2589,
@@ -1444,8 +1444,7 @@
       "2026-05-06": 948,
       "2026-06-18": 71,
       "2026-07-27": 57,
-      "2026-10-05": 28,
-      "2026-10-07": 12
+      "2026-10-05": 28
     }
   },
   {
