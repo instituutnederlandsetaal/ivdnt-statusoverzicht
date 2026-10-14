@@ -411,10 +411,10 @@
     "slug": "dagenta-ivdnt-org",
     "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "98.90%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "98.89%",
     "time": 1831,
     "timeDay": 2136,
     "timeWeek": 1986,
@@ -440,7 +440,7 @@
       "2026-09-09": 17,
       "2026-10-05": 1,
       "2026-10-04": 193,
-      "2026-10-14": 2
+      "2026-10-14": 18
     }
   },
   {
@@ -1336,13 +1336,13 @@
     "url": "https://nederlandsedialecten.org",
     "icon": "https://icons.duckduckgo.com/ip3/nederlandsedialecten.org.ico",
     "slug": "nederlandsedialecten-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "97.75%",
-    "time": 1504,
+    "time": 1505,
     "timeDay": 1331,
     "timeWeek": 2557,
     "timeMonth": 1683,
@@ -1369,7 +1369,8 @@
       "2026-07-28": 43,
       "2026-10-05": 2,
       "2026-10-04": 145,
-      "2026-10-08": 34
+      "2026-10-08": 34,
+      "2026-10-14": 2
     }
   },
   {
