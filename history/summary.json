@@ -1450,17 +1450,17 @@
     "url": "https://overtaal.be",
     "icon": "https://icons.duckduckgo.com/ip3/overtaal.be.ico",
     "slug": "overtaal-be",
-    "status": "down",
+    "status": "up",
     "uptime": "97.97%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "93.93%",
-    "time": 1241,
-    "timeDay": 706,
-    "timeWeek": 1417,
-    "timeMonth": 1274,
-    "timeYear": 1191,
+    "time": 1240,
+    "timeDay": 700,
+    "timeWeek": 1357,
+    "timeMonth": 1257,
+    "timeYear": 1190,
     "dailyMinutesDown": {
       "2025-11-12": 15,
       "2026-01-20": 28,
@@ -1498,7 +1498,7 @@
       "2026-10-05": 2,
       "2026-10-04": 136,
       "2026-10-15": 100,
-      "2026-10-20": 3
+      "2026-10-20": 27
     }
   },
   {
