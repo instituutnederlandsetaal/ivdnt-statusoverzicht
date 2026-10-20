@@ -1,7 +1,7 @@
 url: https://uitleenwoordenbank.ivdnt.org
-status: up
-code: 200
-responseTime: 420
-lastUpdated: 2026-10-19T23:10:54.893Z
+status: down
+code: 502
+responseTime: 206
+lastUpdated: 2026-10-20T03:26:41.432Z
 startTime: 2021-05-28T10:46:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
