@@ -1958,17 +1958,17 @@
     "url": "https://vertaalwoordenschat.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/vertaalwoordenschat.ivdnt.org.ico",
     "slug": "vertaalwoordenschat-ivdnt-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.26%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.25%",
     "time": 924,
-    "timeDay": 996,
-    "timeWeek": 966,
-    "timeMonth": 1509,
-    "timeYear": 967,
+    "timeDay": 773,
+    "timeWeek": 928,
+    "timeMonth": 1482,
+    "timeYear": 966,
     "dailyMinutesDown": {
       "2026-01-12": 16,
       "2026-01-28": 17,
@@ -1978,7 +1978,8 @@
       "2026-05-05": 182,
       "2026-06-18": 26,
       "2026-06-19": 58,
-      "2026-10-27": 31
+      "2026-10-27": 31,
+      "2026-10-30": 3
     }
   },
   {
