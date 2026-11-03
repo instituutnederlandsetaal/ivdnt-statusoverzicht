@@ -74,17 +74,17 @@
     "url": "https://brievenalsbuit.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/brievenalsbuit.ivdnt.org.ico",
     "slug": "brievenalsbuit-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "98.37%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.13%",
     "time": 1543,
-    "timeDay": 605,
-    "timeWeek": 899,
-    "timeMonth": 1571,
-    "timeYear": 1700,
+    "timeDay": 870,
+    "timeWeek": 955,
+    "timeMonth": 1566,
+    "timeYear": 1699,
     "dailyMinutesDown": {
       "2026-01-31": 35,
       "2026-03-28": 29,
@@ -100,7 +100,7 @@
       "2026-06-21": 133,
       "2026-06-22": 78,
       "2026-07-30": 48,
-      "2026-11-03": 3
+      "2026-11-03": 6
     }
   },
   {
@@ -170,17 +170,17 @@
     "url": "https://clarin-be.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/clarin-be.ivdnt.org.ico",
     "slug": "clarin-be-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.26%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.25%",
     "uptimeYear": "99.11%",
-    "time": 1467,
-    "timeDay": 1672,
-    "timeWeek": 1163,
-    "timeMonth": 1532,
-    "timeYear": 1482,
+    "time": 1466,
+    "timeDay": 1430,
+    "timeWeek": 1139,
+    "timeMonth": 1515,
+    "timeYear": 1481,
     "dailyMinutesDown": {
       "2025-11-12": 15,
       "2026-01-31": 33,
@@ -202,7 +202,7 @@
       "2026-10-05": 1,
       "2026-10-04": 202,
       "2026-10-15": 118,
-      "2026-11-03": 2
+      "2026-11-03": 6
     }
   },
   {
@@ -405,16 +405,16 @@
     "url": "https://dagenta.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/dagenta.ivdnt.org.ico",
     "slug": "dagenta-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "98.53%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.52%",
     "uptimeYear": "98.81%",
     "time": 1823,
-    "timeDay": 1592,
-    "timeWeek": 2097,
-    "timeMonth": 1960,
+    "timeDay": 1642,
+    "timeWeek": 2057,
+    "timeMonth": 1954,
     "timeYear": 1795,
     "dailyMinutesDown": {
       "2025-11-12": 15,
@@ -438,7 +438,7 @@
       "2026-10-04": 193,
       "2026-10-15": 410,
       "2026-10-14": 39,
-      "2026-11-03": 2
+      "2026-11-03": 5
     }
   },
   {
@@ -1224,16 +1224,16 @@
     "url": "https://mateo.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/mateo.ivdnt.org.ico",
     "slug": "mateo-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "97.57%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.25%",
     "time": 549,
-    "timeDay": 348,
-    "timeWeek": 476,
-    "timeMonth": 549,
+    "timeDay": 427,
+    "timeWeek": 484,
+    "timeMonth": 550,
     "timeYear": 548,
     "dailyMinutesDown": {
       "2026-01-31": 22,
@@ -1247,7 +1247,7 @@
       "2026-06-18": 28,
       "2026-06-19": 59,
       "2026-08-13": 39,
-      "2026-11-03": 2
+      "2026-11-03": 5
     }
   },
   {
