@@ -280,7 +280,7 @@
     "uptimeYear": "98.20%",
     "time": 1378,
     "timeDay": 709,
-    "timeWeek": 4282,
+    "timeWeek": 835,
     "timeMonth": 2061,
     "timeYear": 1532,
     "dailyMinutesDown": {
@@ -318,7 +318,7 @@
     "uptimeYear": "99.13%",
     "time": 1364,
     "timeDay": 937,
-    "timeWeek": 878,
+    "timeWeek": 949,
     "timeMonth": 994,
     "timeYear": 1508,
     "dailyMinutesDown": {
@@ -713,7 +713,7 @@
     "uptimeYear": "99.21%",
     "time": 716,
     "timeDay": 461,
-    "timeWeek": 427,
+    "timeWeek": 442,
     "timeMonth": 576,
     "timeYear": 703,
     "dailyMinutesDown": {
@@ -1221,16 +1221,16 @@
     "url": "https://mateo.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/mateo.ivdnt.org.ico",
     "slug": "mateo-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "97.58%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.25%",
-    "time": 551,
-    "timeDay": 375,
-    "timeWeek": 519,
-    "timeMonth": 517,
+    "time": 550,
+    "timeDay": 393,
+    "timeWeek": 528,
+    "timeMonth": 515,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2026-01-31": 22,
@@ -1244,7 +1244,7 @@
       "2026-06-18": 28,
       "2026-06-19": 59,
       "2026-08-13": 39,
-      "2026-11-08": 2
+      "2026-11-08": 6
     }
   },
   {
@@ -1966,7 +1966,7 @@
     "uptimeYear": "99.26%",
     "time": 928,
     "timeDay": 865,
-    "timeWeek": 842,
+    "timeWeek": 910,
     "timeMonth": 1238,
     "timeYear": 968,
     "dailyMinutesDown": {
