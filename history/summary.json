@@ -39,8 +39,8 @@
     "slug": "anw-ivdnt-org",
     "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "98.08%",
     "uptimeYear": "98.43%",
     "time": 1387,
@@ -67,7 +67,7 @@
       "2026-10-12": 414,
       "2026-10-11": 1164,
       "2026-11-06": 20,
-      "2026-11-11": 2
+      "2026-11-11": 15
     }
   },
   {
@@ -825,17 +825,17 @@
     "url": "https://gtb.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/gtb.ivdnt.org.ico",
     "slug": "gtb-ivdnt-org",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.19%",
-    "time": 1116,
-    "timeDay": 1207,
-    "timeWeek": 882,
-    "timeMonth": 803,
-    "timeYear": 1229,
+    "time": 1120,
+    "timeDay": 1923,
+    "timeWeek": 1157,
+    "timeMonth": 876,
+    "timeYear": 1234,
     "dailyMinutesDown": {
       "2026-01-31": 26,
       "2026-02-01": 33,
@@ -849,7 +849,8 @@
       "2026-06-21": 29,
       "2026-07-15": 32,
       "2026-07-19": 23,
-      "2026-10-19": 24
+      "2026-10-19": 24,
+      "2026-11-11": 2
     }
   },
   {
