@@ -69,6 +69,8 @@ sites:
     url: https://mateo.ivdnt.org
   - name: meldpunttaal.ivdnt.org
     url: https://meldpunttaal.ivdnt.org
+  - name: namenloket.be
+    url: https://namenloket.be
   - name: neerlandistiek.nl
     url: https://neerlandistiek.nl
   - name: nederlandsedialecten.org
