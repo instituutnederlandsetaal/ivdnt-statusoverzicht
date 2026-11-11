@@ -41,7 +41,7 @@
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "96.35%",
+    "uptimeMonth": "96.42%",
     "uptimeYear": "98.43%",
     "time": 1387,
     "timeDay": 2516,
@@ -588,15 +588,15 @@
     "url": "https://ewnd.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/ewnd.ivdnt.org.ico",
     "slug": "ewnd-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "97.58%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "99.14%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "97.26%",
+    "uptimeYear": "99.13%",
     "time": 517,
-    "timeDay": 397,
-    "timeWeek": 424,
+    "timeDay": 454,
+    "timeWeek": 417,
     "timeMonth": 404,
     "timeYear": 477,
     "dailyMinutesDown": {
@@ -697,7 +697,7 @@
       "2026-11-08": 39,
       "2026-11-09": 42,
       "2026-11-10": 39,
-      "2026-11-11": 2
+      "2026-11-11": 40
     }
   },
   {
@@ -1011,16 +1011,16 @@
     "url": "https://kennisbank-begrijpelijketaal.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kennisbank-begrijpelijketaal.nl.ico",
     "slug": "kennisbank-begrijpelijketaal-nl",
-    "status": "down",
+    "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "97.59%",
-    "uptimeMonth": "97.37%",
-    "uptimeYear": "99.16%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "99.15%",
     "time": 614,
-    "timeDay": 826,
-    "timeWeek": 680,
-    "timeMonth": 652,
+    "timeDay": 951,
+    "timeWeek": 682,
+    "timeMonth": 653,
     "timeYear": 592,
     "dailyMinutesDown": {
       "2026-07-13": 75,
@@ -1120,7 +1120,7 @@
       "2026-11-08": 39,
       "2026-11-09": 42,
       "2026-11-10": 39,
-      "2026-11-11": 3
+      "2026-11-11": 40
     }
   },
   {
@@ -1839,17 +1839,17 @@
     "url": "https://uitleenwoordenbank.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/uitleenwoordenbank.ivdnt.org.ico",
     "slug": "uitleenwoordenbank-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "97.60%",
-    "uptimeMonth": "97.42%",
-    "uptimeYear": "99.18%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "97.58%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "99.17%",
     "time": 591,
-    "timeDay": 540,
-    "timeWeek": 797,
-    "timeMonth": 724,
-    "timeYear": 578,
+    "timeDay": 679,
+    "timeWeek": 793,
+    "timeMonth": 725,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2026-07-08": 59,
       "2026-07-12": 61,
@@ -1949,7 +1949,7 @@
       "2026-11-08": 38,
       "2026-11-09": 42,
       "2026-11-10": 39,
-      "2026-11-11": 3
+      "2026-11-11": 40
     }
   },
   {
