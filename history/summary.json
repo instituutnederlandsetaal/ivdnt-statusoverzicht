@@ -4,16 +4,16 @@
     "url": "https://ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/ivdnt.org.ico",
     "slug": "ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.60%",
     "time": 1376,
-    "timeDay": 1850,
-    "timeWeek": 1968,
-    "timeMonth": 1480,
+    "timeDay": 1688,
+    "timeWeek": 1900,
+    "timeMonth": 1477,
     "timeYear": 1411,
     "dailyMinutesDown": {
       "2025-12-14": 268,
@@ -30,7 +30,7 @@
       "2026-06-19": 196,
       "2026-06-20": 370,
       "2026-06-21": 185,
-      "2026-11-11": 2
+      "2026-11-11": 8
     }
   },
   {
@@ -42,7 +42,7 @@
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "96.48%",
+    "uptimeMonth": "96.49%",
     "uptimeYear": "98.43%",
     "time": 1387,
     "timeDay": 2516,
@@ -170,17 +170,17 @@
     "url": "https://clarin-be.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/clarin-be.ivdnt.org.ico",
     "slug": "clarin-be-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.11%",
     "time": 1467,
-    "timeDay": 2590,
-    "timeWeek": 1388,
-    "timeMonth": 1445,
-    "timeYear": 1482,
+    "timeDay": 2019,
+    "timeWeek": 1341,
+    "timeMonth": 1430,
+    "timeYear": 1481,
     "dailyMinutesDown": {
       "2025-11-12": 15,
       "2026-01-31": 33,
@@ -202,7 +202,7 @@
       "2026-10-05": 1,
       "2026-10-04": 202,
       "2026-10-15": 118,
-      "2026-11-11": 3
+      "2026-11-11": 7
     }
   },
   {
@@ -405,16 +405,16 @@
     "url": "https://dagenta.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/dagenta.ivdnt.org.ico",
     "slug": "dagenta-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "98.97%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "98.96%",
     "uptimeYear": "98.81%",
     "time": 1823,
-    "timeDay": 2668,
-    "timeWeek": 2149,
-    "timeMonth": 1880,
+    "timeDay": 2419,
+    "timeWeek": 2124,
+    "timeMonth": 1881,
     "timeYear": 1800,
     "dailyMinutesDown": {
       "2025-11-12": 15,
@@ -438,7 +438,7 @@
       "2026-10-04": 193,
       "2026-10-15": 410,
       "2026-10-14": 39,
-      "2026-11-11": 3
+      "2026-11-11": 7
     }
   },
   {
@@ -778,7 +778,7 @@
     "timeDay": 2042,
     "timeWeek": 1206,
     "timeMonth": 1182,
-    "timeYear": 1533,
+    "timeYear": 1534,
     "dailyMinutesDown": {
       "2026-01-31": 27,
       "2026-05-08": 703,
@@ -1232,7 +1232,7 @@
     "uptimeYear": "99.25%",
     "time": 552,
     "timeDay": 617,
-    "timeWeek": 624,
+    "timeWeek": 571,
     "timeMonth": 540,
     "timeYear": 551,
     "dailyMinutesDown": {
