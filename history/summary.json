@@ -41,7 +41,7 @@
     "uptime": "99.51%",
     "uptimeDay": "95.88%",
     "uptimeWeek": "99.21%",
-    "uptimeMonth": "98.08%",
+    "uptimeMonth": "98.12%",
     "uptimeYear": "98.42%",
     "time": 1389,
     "timeDay": 1831,
@@ -766,17 +766,17 @@
     "url": "https://glad.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/glad.ivdnt.org.ico",
     "slug": "glad-ivdnt-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.16%",
     "time": 1393,
-    "timeDay": 2030,
-    "timeWeek": 1452,
-    "timeMonth": 1256,
-    "timeYear": 1538,
+    "timeDay": 1803,
+    "timeWeek": 1402,
+    "timeMonth": 1246,
+    "timeYear": 1537,
     "dailyMinutesDown": {
       "2026-01-31": 27,
       "2026-05-08": 703,
@@ -788,7 +788,7 @@
       "2026-06-20": 182,
       "2026-06-21": 109,
       "2026-06-22": 75,
-      "2026-11-11": 25
+      "2026-11-11": 27
     }
   },
   {
