@@ -71,6 +71,8 @@ sites:
     url: https://meldpunttaal.ivdnt.org
   - name: namenloket.be
     url: https://namenloket.be
+  - name: namenloket.be database
+    url: https://database.namenloket.be
   - name: neerlandistiek.nl
     url: https://neerlandistiek.nl
   - name: nederlandsedialecten.org
