@@ -4,17 +4,17 @@
     "url": "https://ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/ivdnt.org.ico",
     "slug": "ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.61%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.60%",
     "time": 1380,
-    "timeDay": 1445,
-    "timeWeek": 1545,
-    "timeMonth": 1475,
-    "timeYear": 1414,
+    "timeDay": 1301,
+    "timeWeek": 1510,
+    "timeMonth": 1463,
+    "timeYear": 1413,
     "dailyMinutesDown": {
       "2025-12-14": 268,
       "2026-01-19": 21,
@@ -30,7 +30,7 @@
       "2026-06-19": 196,
       "2026-06-20": 370,
       "2026-06-21": 185,
-      "2026-11-14": 1
+      "2026-11-14": 10
     }
   },
   {
