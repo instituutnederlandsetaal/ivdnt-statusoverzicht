@@ -46,7 +46,7 @@
     "time": 1393,
     "timeDay": 1151,
     "timeWeek": 1677,
-    "timeMonth": 1476,
+    "timeMonth": 1511,
     "timeYear": 1450,
     "dailyMinutesDown": {
       "2026-01-31": 36,
@@ -84,7 +84,7 @@
     "time": 1544,
     "timeDay": 625,
     "timeWeek": 1178,
-    "timeMonth": 1232,
+    "timeMonth": 1072,
     "timeYear": 1697,
     "dailyMinutesDown": {
       "2026-01-31": 35,
@@ -585,19 +585,18 @@
     "url": "https://ewnd.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/ewnd.ivdnt.org.ico",
     "slug": "ewnd-ivdnt-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "97.56%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "99.14%",
-    "time": 513,
-    "timeDay": 397,
-    "timeWeek": 423,
-    "timeMonth": 405,
-    "timeYear": 476,
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "97.60%",
+    "uptimeMonth": "97.64%",
+    "uptimeYear": "99.15%",
+    "time": 512,
+    "timeDay": 371,
+    "timeWeek": 418,
+    "timeMonth": 404,
+    "timeYear": 475,
     "dailyMinutesDown": {
-      "2026-07-17": 57,
       "2026-07-19": 61,
       "2026-07-20": 65,
       "2026-07-21": 59,
@@ -694,7 +693,8 @@
       "2026-11-11": 40,
       "2026-11-12": 45,
       "2026-11-13": 41,
-      "2026-11-15": 39
+      "2026-11-15": 39,
+      "2026-11-16": 2
     }
   },
   {
@@ -862,7 +862,7 @@
     "time": 710,
     "timeDay": 456,
     "timeWeek": 740,
-    "timeMonth": 1002,
+    "timeMonth": 599,
     "timeYear": 670,
     "dailyMinutesDown": {
       "2025-11-29": 107,
@@ -1006,19 +1006,18 @@
     "url": "https://kennisbank-begrijpelijketaal.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kennisbank-begrijpelijketaal.nl.ico",
     "slug": "kennisbank-begrijpelijketaal-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "97.59%",
-    "uptimeYear": "99.16%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "99.17%",
     "time": 616,
-    "timeDay": 559,
-    "timeWeek": 757,
-    "timeMonth": 641,
+    "timeDay": 597,
+    "timeWeek": 766,
+    "timeMonth": 642,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2026-07-17": 56,
       "2026-07-19": 61,
       "2026-07-20": 65,
       "2026-07-21": 59,
@@ -1115,7 +1114,8 @@
       "2026-11-11": 40,
       "2026-11-12": 44,
       "2026-11-13": 41,
-      "2026-11-15": 39
+      "2026-11-15": 39,
+      "2026-11-16": 3
     }
   },
   {
@@ -1197,7 +1197,7 @@
     "time": 626,
     "timeDay": 462,
     "timeWeek": 867,
-    "timeMonth": 615,
+    "timeMonth": 621,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2026-05-08": 713,
@@ -1224,7 +1224,7 @@
     "time": 554,
     "timeDay": 402,
     "timeWeek": 725,
-    "timeMonth": 543,
+    "timeMonth": 548,
     "timeYear": 554,
     "dailyMinutesDown": {
       "2026-01-31": 22,
@@ -1254,7 +1254,7 @@
     "time": 681,
     "timeDay": 754,
     "timeWeek": 1019,
-    "timeMonth": 827,
+    "timeMonth": 845,
     "timeYear": 681,
     "dailyMinutesDown": {
       "2026-07-28": 53,
@@ -1349,7 +1349,7 @@
     "time": 1495,
     "timeDay": 1279,
     "timeWeek": 2190,
-    "timeMonth": 1608,
+    "timeMonth": 1573,
     "timeYear": 1462,
     "dailyMinutesDown": {
       "2026-01-20": 27,
@@ -1473,7 +1473,7 @@
     "time": 1241,
     "timeDay": 952,
     "timeWeek": 1599,
-    "timeMonth": 1291,
+    "timeMonth": 1321,
     "timeYear": 1197,
     "dailyMinutesDown": {
       "2026-01-20": 28,
@@ -1657,7 +1657,7 @@
     "time": 881,
     "timeDay": 608,
     "timeWeek": 1355,
-    "timeMonth": 1067,
+    "timeMonth": 1095,
     "timeYear": 879,
     "dailyMinutesDown": {
       "2025-11-29": 105,
@@ -1688,7 +1688,7 @@
     "time": 1073,
     "timeDay": 892,
     "timeWeek": 1393,
-    "timeMonth": 1068,
+    "timeMonth": 1096,
     "timeYear": 1067,
     "dailyMinutesDown": {
       "2026-01-12": 18,
@@ -1715,7 +1715,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/scheikunde.ivdnt.org.ico",
     "slug": "scheikunde-ivdnt-org",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1723,7 +1723,7 @@
     "time": 653,
     "timeDay": 469,
     "timeWeek": 708,
-    "timeMonth": 564,
+    "timeMonth": 576,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2026-01-12": 18,
@@ -1862,19 +1862,18 @@
     "url": "https://uitleenwoordenbank.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/uitleenwoordenbank.ivdnt.org.ico",
     "slug": "uitleenwoordenbank-ivdnt-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "97.58%",
-    "uptimeMonth": "97.63%",
-    "uptimeYear": "99.18%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "97.69%",
+    "uptimeYear": "99.19%",
     "time": 592,
-    "timeDay": 474,
-    "timeWeek": 850,
-    "timeMonth": 705,
-    "timeYear": 581,
+    "timeDay": 485,
+    "timeWeek": 846,
+    "timeMonth": 699,
+    "timeYear": 580,
     "dailyMinutesDown": {
-      "2026-07-15": 52,
       "2026-07-16": 56,
       "2026-07-17": 56,
       "2026-07-19": 61,
@@ -1972,7 +1971,8 @@
       "2026-11-11": 40,
       "2026-11-12": 44,
       "2026-11-13": 41,
-      "2026-11-15": 39
+      "2026-11-15": 39,
+      "2026-11-16": 3
     }
   },
   {
@@ -1989,7 +1989,7 @@
     "time": 944,
     "timeDay": 825,
     "timeWeek": 1613,
-    "timeMonth": 1141,
+    "timeMonth": 1137,
     "timeYear": 989,
     "dailyMinutesDown": {
       "2026-01-12": 16,
