@@ -586,13 +586,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/ewnd.ivdnt.org.ico",
     "slug": "ewnd-ivdnt-org",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "97.55%",
+    "uptime": "99.84%",
+    "uptimeDay": "97.51%",
     "uptimeWeek": "97.68%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "99.16%",
+    "uptimeMonth": "97.49%",
+    "uptimeYear": "99.15%",
     "time": 511,
-    "timeDay": 344,
+    "timeDay": 356,
     "timeWeek": 399,
     "timeMonth": 403,
     "timeYear": 475,
@@ -694,7 +694,7 @@
       "2026-11-13": 41,
       "2026-11-15": 39,
       "2026-11-16": 33,
-      "2026-11-17": 2
+      "2026-11-17": 34
     }
   },
   {
@@ -1007,13 +1007,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/kennisbank-begrijpelijketaal.nl.ico",
     "slug": "kennisbank-begrijpelijketaal-nl",
     "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "97.55%",
+    "uptime": "99.53%",
+    "uptimeDay": "97.52%",
     "uptimeWeek": "97.69%",
-    "uptimeMonth": "97.58%",
-    "uptimeYear": "99.18%",
+    "uptimeMonth": "97.50%",
+    "uptimeYear": "99.17%",
     "time": 614,
-    "timeDay": 455,
+    "timeDay": 464,
     "timeWeek": 691,
     "timeMonth": 636,
     "timeYear": 593,
@@ -1115,7 +1115,7 @@
       "2026-11-13": 41,
       "2026-11-15": 39,
       "2026-11-16": 33,
-      "2026-11-17": 3
+      "2026-11-17": 35
     }
   },
   {
@@ -1862,15 +1862,15 @@
     "url": "https://uitleenwoordenbank.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/uitleenwoordenbank.ivdnt.org.ico",
     "slug": "uitleenwoordenbank-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "97.62%",
-    "uptimeYear": "99.20%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "97.55%",
+    "uptimeYear": "99.19%",
     "time": 591,
-    "timeDay": 425,
-    "timeWeek": 602,
+    "timeDay": 484,
+    "timeWeek": 605,
     "timeMonth": 690,
     "timeYear": 579,
     "dailyMinutesDown": {
@@ -1972,7 +1972,7 @@
       "2026-11-13": 41,
       "2026-11-15": 39,
       "2026-11-16": 33,
-      "2026-11-17": 3
+      "2026-11-17": 32
     }
   },
   {
