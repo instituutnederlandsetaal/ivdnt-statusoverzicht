@@ -75,17 +75,17 @@
     "url": "https://brievenalsbuit.ivdnt.org",
     "icon": "https://icons.duckduckgo.com/ip3/brievenalsbuit.ivdnt.org.ico",
     "slug": "brievenalsbuit-ivdnt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.13%",
-    "time": 1538,
-    "timeDay": 688,
-    "timeWeek": 845,
-    "timeMonth": 990,
-    "timeYear": 1685,
+    "time": 1537,
+    "timeDay": 680,
+    "timeWeek": 825,
+    "timeMonth": 981,
+    "timeYear": 1683,
     "dailyMinutesDown": {
       "2026-01-31": 35,
       "2026-03-28": 29,
@@ -101,7 +101,7 @@
       "2026-06-21": 133,
       "2026-06-22": 78,
       "2026-07-30": 48,
-      "2026-11-25": 1
+      "2026-11-25": 8
     }
   },
   {
