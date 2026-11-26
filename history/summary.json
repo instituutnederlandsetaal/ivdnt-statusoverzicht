@@ -1120,22 +1120,22 @@
   },
   {
     "name": "leenwoordenteller.ivdnt.org",
-    "url": "https://leenwoordenteller .ivdnt.org",
-    "icon": "https://icons.duckduckgo.com/ip3/leenwoordenteller.ico",
+    "url": "https://leenwoordenteller.ivdnt.org",
+    "icon": "https://icons.duckduckgo.com/ip3/leenwoordenteller.ivdnt.org.ico",
     "slug": "leenwoordenteller-ivdnt-org",
-    "status": "down",
-    "uptime": "5.72%",
-    "uptimeDay": "5.72%",
-    "uptimeWeek": "5.72%",
-    "uptimeMonth": "5.72%",
-    "uptimeYear": "5.72%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "26.14%",
+    "uptimeDay": "26.14%",
+    "uptimeWeek": "26.14%",
+    "uptimeMonth": "26.14%",
+    "uptimeYear": "26.14%",
+    "time": 639,
+    "timeDay": 639,
+    "timeWeek": 639,
+    "timeMonth": 639,
+    "timeYear": 639,
     "dailyMinutesDown": {
-      "2026-11-26": 3
+      "2026-11-26": 9
     }
   },
   {
