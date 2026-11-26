@@ -59,6 +59,8 @@ sites:
     url: https://kdutch.ivdnt.org
   - name: kennisbank-begrijpelijketaal.nl
     url: https://kennisbank-begrijpelijketaal.nl
+  - name: leenwoordenteller.ivdnt.org
+    url: https://leenwoordenteller .ivdnt.org
   - name: lexiconfrisicum.ivdnt.org
     url: https://lexiconfrisicum.ivdnt.org
   - name: limburgsluisteren.ivdnt.org
